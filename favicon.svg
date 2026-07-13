@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs><linearGradient id="bgt3b0" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#b71c1c"/><stop offset="100%" stop-color="#311b92"/>
-  </linearGradient></defs>
-  <rect width="32" height="32" rx="6" fill="url(#bgt3b0)"/>
-  <polygon points="16,3 30,28 2,28" fill="rgba(183,28,28,0.9)" stroke="rgba(49,27,146,0.6)" stroke-width="2"/>
-  <text x="16" y="21" text-anchor="middle" fill="#fff" font-size="8" font-weight="700" font-family="system-ui">T3</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <metadata>BPaaS site identity 728d5d05b6f954ee</metadata>
+  <rect width="64" height="64" rx="12" fill="hsl(165 53% 38%)"/>
+  <path d="M38 0h26v64H24Z" fill="hsl(306 56% 66%)" opacity="0.82"/>
+  <g transform="rotate(113 32 32)" opacity="0.42"><path d="M12 34h40M32 12v40" stroke="#101418" stroke-width="8" stroke-linecap="round"/></g>
+  <text x="32" y="39" text-anchor="middle" fill="#101418" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">GR</text>
 </svg>
